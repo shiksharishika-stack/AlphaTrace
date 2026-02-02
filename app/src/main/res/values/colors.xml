@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warm_cream">#FFFEF6E4</color>
+    <color name="coral">#FFFF6F61</color>
+    <color name="gold">#FFFFD700</color>
+    <color name="guide_gray">#FFCCCCCC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
